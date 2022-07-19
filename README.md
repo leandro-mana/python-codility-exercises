@@ -6,7 +6,7 @@ tags: []
 
 ## Python Codility Exercises
 
-This repository contains some of the Python problems provided by [Codility Lessons](https://app.codility.com/programmers/lessons/1-iterations/)
+This repository contains some of the Python problems provided by [Codility Lessons](https://app.codility.com/programmers/lessons/1-iterations/), Code solutions and Tests are stored in Jupyter Notebooks in the [src](src) folder.
 
 ## Requirements
 
